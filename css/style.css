@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Roboto:wght@400;700;900&display=swap');
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/LarsseitRegular.woff2") format("woff2"), url("../fonts/LarsseitRegular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+body{
+	font-family: "Larsseit";
+}
+header{
+	color: blue;
+}
+h1{
+	font-family: "Lato";
+	font-weight: 900;
+}
+h1{
+	font-size: xx-large;
+}
+ul{
+	font-family: "Lato"
+}
+h2{
+	font-family: "Lato";
+}
+.roboto{
+	font-family: "Roboto";
+}
+.textmain{
+	color: green;
+}
+mark{
+	color: blueviolet;
+}
+.texthtwo +p{
+	color: brown;
+}
+h2{
+	color: chartreuse;
+}
+.texthtwo{
+	color: indigo;
+}
+h3{
+	color: darkmagenta; 
+}
+footer{
+	color: darkorange;
+}
+span{
+	color: fuchsia;
+}
+p{
+	color: darkblue;
+}
+p.textin{
+	color: deepskyblue;
+}
+ul{
+	color: blue;
+}
